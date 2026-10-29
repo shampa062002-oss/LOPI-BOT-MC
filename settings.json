@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "lopicraft.aternos.me",
+    "port": 14101,
     "version": "",
     "try-creative": false
   },
